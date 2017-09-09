@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tboopeshkumar/NodeJsTraining#readme",
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "websocket": "^1.0.24"
   }
 }
