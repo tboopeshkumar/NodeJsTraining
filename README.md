@@ -65,3 +65,15 @@ Clustering :
 6. exec
 
 JMeter - Load balancing testing library.
+
+Client side dependency : Bower
+bower install <packagename0>
+
+- Mocha - unit test frame work for Node.js - chai.js
+- Gulp, Grunt for server side build automation tool
+- Webpack -  client side build automation tool
+
+- Docker - Build, ship, Run anywhere
+- Node js mircroservices. 
+
+: email of the trainer : dsrmurthy786@yahoo.com
