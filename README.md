@@ -50,3 +50,16 @@ npm install node-gyp -g
 npm install nan --save
 node-gyp configure
 node-gyp build
+
+Clustering :
+- clustering
+- nginx
+- HAProxy
+- Varnish (caching proxy)
+
+1. Fork
+2. spawn 
+3. clustering
+4. nginix
+5. Pm2
+6. exec
