@@ -39,3 +39,14 @@ function Emp(name, sal){
 - Node TS ts-node
 
 - CSRF Token
+
+- *Axios*
+
+Async & Await :
+
+Addon : 
+
+npm install node-gyp -g
+npm install nan --save
+node-gyp configure
+node-gyp build
